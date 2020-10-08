@@ -1,2 +1,2 @@
 # administrativo-financeiro
-Admin criado com Angular
+Admin criado com React

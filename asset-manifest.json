@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/administrativo-financeiro/static/css/main.5f361e03.chunk.css",
-    "main.js": "/administrativo-financeiro/static/js/main.e8b74acd.chunk.js",
-    "main.js.map": "/administrativo-financeiro/static/js/main.e8b74acd.chunk.js.map",
+    "main.css": "/administrativo-financeiro/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/administrativo-financeiro/static/js/main.cd14b824.chunk.js",
+    "main.js.map": "/administrativo-financeiro/static/js/main.cd14b824.chunk.js.map",
     "runtime-main.js": "/administrativo-financeiro/static/js/runtime-main.61c04912.js",
     "runtime-main.js.map": "/administrativo-financeiro/static/js/runtime-main.61c04912.js.map",
-    "static/js/2.68a493d1.chunk.js": "/administrativo-financeiro/static/js/2.68a493d1.chunk.js",
-    "static/js/2.68a493d1.chunk.js.map": "/administrativo-financeiro/static/js/2.68a493d1.chunk.js.map",
+    "static/js/2.12645f60.chunk.js": "/administrativo-financeiro/static/js/2.12645f60.chunk.js",
+    "static/js/2.12645f60.chunk.js.map": "/administrativo-financeiro/static/js/2.12645f60.chunk.js.map",
     "index.html": "/administrativo-financeiro/index.html",
-    "precache-manifest.09ba98919057c8cf35b63d2162b5b2ff.js": "/administrativo-financeiro/precache-manifest.09ba98919057c8cf35b63d2162b5b2ff.js",
+    "precache-manifest.f469b1a60ab8c5d4bbbb22143760ce87.js": "/administrativo-financeiro/precache-manifest.f469b1a60ab8c5d4bbbb22143760ce87.js",
     "service-worker.js": "/administrativo-financeiro/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/administrativo-financeiro/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.68a493d1.chunk.js.LICENSE.txt": "/administrativo-financeiro/static/js/2.68a493d1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/administrativo-financeiro/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/administrativo-financeiro/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.12645f60.chunk.js.LICENSE.txt": "/administrativo-financeiro/static/js/2.12645f60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.61c04912.js",
-    "static/js/2.68a493d1.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e8b74acd.chunk.js"
+    "static/js/2.12645f60.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd14b824.chunk.js"
   ]
 }
